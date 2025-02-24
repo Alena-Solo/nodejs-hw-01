@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": "598afb2d-a442-41b2-bd2b-93c9c67754ec",
+    "name": "Teresa Kohler",
+    "phone": "1-607-550-8811 x196",
+    "email": "Anne7@hotmail.com",
+    "job": "Central Functionality Technician"
+  },
+  {
+    "id": "ab364786-f302-4b34-833d-cb3b36104528",
+    "name": "Clarence Bogan",
+    "phone": "245.312.8724 x288",
+    "email": "Loy_Rolfson@gmail.com",
+    "job": "Principal Configuration Executive"
+  },
+  {
+    "id": "04debadf-2d20-4791-ab96-3f8408dfd2be",
+    "name": "Wendell Johnston",
+    "phone": "953.298.0033 x391",
+    "email": "Ruben15@yahoo.com",
+    "job": "Investor Integration Manager"
+  },
+  {
+    "id": "775ce695-fb0a-4069-b370-3c4f9562bf42",
+    "name": "Stacy Sipes",
+    "phone": "(257) 818-8586 x2525",
+    "email": "Kenya_Rath91@yahoo.com",
+    "job": "Direct Quality Executive"
+  }
+]
