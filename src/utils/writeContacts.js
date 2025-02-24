@@ -1,6 +1,5 @@
-import { writeFile } from 'node:fs';
+import { writeFile } from 'node:fs/promises';
 import { PATH_DB } from '../constants/contacts.js';
-import fs from 'node:fs/promises';
 
 export const writeContacts = async (updatedContacts) => {
   try {
